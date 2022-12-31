@@ -1,2 +1,2 @@
-# boj
-Baekjoon Online Judge Solutions
+## BOJ
+Solutions for [Baekjoon Online Judge (BOJ)](https://www.acmicpc.net/) problems.
